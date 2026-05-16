@@ -1,0 +1,8 @@
+{
+  "Planets": [
+    { "name": "Alpha",   "planetRadius": 8,  "orbitRadius": 100 },
+    { "name": "Beta",    "planetRadius": 14, "orbitRadius": 180 },
+    { "name": "Gamma",   "planetRadius": 22, "orbitRadius": 290 },
+    { "name": "Delta",   "planetRadius": 10, "orbitRadius": 390 }
+  ]
+}
